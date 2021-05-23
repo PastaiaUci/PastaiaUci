@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hello!
+### My name is David and i enjoy working on programming stuff that i can give others to use.
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: instagram/pastaiauci
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on a social app for me and my friends to use.
+🌱 I’m currently learning flutter and dart.
+👯 I’m looking to collaborate on anything that seems fun and interesting.
+💬 Ask me about anything  you want i guess.
+📫 How to reach me: instagram/pastaiauci
+⚡ The sniper from Baghii.
+🌴 King of the jungle.
+🍡 Anime is kinda cool.
+🏋️ Free time ego lifter.
 

@@ -9,5 +9,5 @@
 -⚡ The sniper from Baghii.\
 -🌴 King of the jungle.\
 -🍡 Anime is kinda cool.\
--🏋️ Uru-zin lifter.
+-🏋️ Aesthetic fanboy.
 
